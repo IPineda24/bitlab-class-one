@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(55, 29, 128);
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 60px;
+    font-size: 50px;
+}
+h2{
+    color: white;
+}
+div{
+    margin-left: 5px;
+    text-align: center;
+}
+
+.gato{
+    position:absolute;
+}
+
+p{
+    color:rgb(184, 158, 255);
+   
+}
+.color{
+    text-align: center;
+    background-color: rgb(3, 16, 75);
+}
